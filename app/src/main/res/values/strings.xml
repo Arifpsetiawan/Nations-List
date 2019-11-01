@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">List</string>
+    <string name="nation_name">Nama Negara</string>
+    <string name="details">Detail</string>
+    <string name="nation">Indonesia</string>
+    <string name="detail">Republik Indonesia atau Negara Kesatuan Republik Indonesia, atau lebih umum disebut Indonesia, adalah negara di Asia Tenggara yang dilintasi garis khatulistiwa dan berada di antara daratan benua Asia dan Australia, serta antara Samudra Pasifik dan Samudra Hindia.</string>
+    <string name="fullname">Arif Puji Setiawan</string>
+    <string name="email">arif.p.setiawan.9@gmail.com</string>
+</resources>
